@@ -1,0 +1,3 @@
+#!/bin/sh
+iptables-restore < /opt/tp/firewall.conf
+
